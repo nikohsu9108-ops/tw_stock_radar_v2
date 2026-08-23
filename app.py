@@ -14,7 +14,7 @@ st.markdown("""
 h1{font-size:1.8rem!important;margin-bottom:.15rem!important}
 div[data-testid="stMetric"]{background:#f7f8fa;border-radius:15px;padding:12px}
 .stButton>button{height:48px;border-radius:13px;font-size:1rem;font-weight:700}
-.signal-card{padding:16px;border-radius:16px;background:#f7f8fa;margin:.8rem 0}
+.signal-card{padding:16px;border-radius:16px;background:#161b22margin:.8rem 0}
 .signal-title{font-size:1.25rem;font-weight:800}
 .meta{font-size:.85rem;color:#7a7f88}
 .price-title{font-size:2rem;font-weight:850;margin:.4rem 0}
