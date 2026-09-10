@@ -10,7 +10,7 @@ st.set_page_config(page_title="台股籌碼實戰雷達 V2", page_icon="📈", l
 
 st.markdown("""
 <style>
-.block-container{max-width:560px;padding-top:1rem;padding-bottom:3rem}
+.block-container{max-width:560px;padding-top:4rem;padding-bottom:3rem}
 h1{font-size:1.8rem!important;margin-bottom:.15rem!important}
 div[data-testid="stMetric"]{background:#161b22;border:1px solid #30363d;border-radius:15px;padding:12px;color:#ffffff}
 .stButton>button{height:48px;border-radius:13px;font-size:1rem;font-weight:700}
